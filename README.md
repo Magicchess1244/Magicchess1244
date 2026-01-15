@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm KINGCHAINA</h1>
+<h1 align="center">Hi 👋, I'm Magcchess1244</h1>
 <h3 align="center">A DOG LOVER FROM SHEIN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magicchess1244&label=Profile%20views&color=0e75b6&style=flat" alt="magicchess1244" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicchess1244" alt="magicchess1244" /></a> </p>
 
-- 🌱 I’m currently learning **COOKING**
+-🌱 Currently learning how to program well
 
-- 🤝 I’m looking for help with **COOKING**
+🤝 Open to tips, ideas, and collaboration
 
-- 👨‍💻 All of my projects are available at [GITHAB](GITHAB)
+👨‍💻 My projects are available on GitHub
 
-- 📝 I regularly write articles on [MY NOTEBOOK](MY NOTEBOOK)
+📝 I sometimes write notes and articles in my notebook
 
-- 💬 Ask me about **COOKING, ANIMALSSSSS**
+💬 Feel free to ask me about game dev or how to write not very good code
 
-- 📫 How to reach me **POSTOFFICE**
-
-- ⚡ Fun fact **I THINK IM CHINA**
+📫 You can reach me via post office (old-school!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
