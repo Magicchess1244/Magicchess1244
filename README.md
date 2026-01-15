@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicchess1244" alt="magicchess1244" /></a> </p>
 
--🌱 Currently learning how to program well
+  -🌱 Currently learning how to program well
 
-🤝 Open to tips, ideas, and collaboration
+  🤝 Open to tips, ideas, and collaboration
 
-👨‍💻 My projects are available on GitHub
+  👨‍💻 My projects are available on GitHub
 
-📝 I sometimes write notes and articles in my notebook
+  📝 I sometimes write notes and articles in my notebook
 
-💬 Feel free to ask me about game dev or how to write not very good code
+  💬 Feel free to ask me about game dev or how to write not very good code
 
-📫 You can reach me via post office (old-school!)
+  📫 You can reach me via post office (old-school!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
