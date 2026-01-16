@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magcchess1244</h1>
-<h3 align="center">A DOG LOVER FROM SHEIN</h3>
+<h3 align="center">I am a indie Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magicchess1244&label=Profile%20views&color=0e75b6&style=flat" alt="magicchess1244" /> </p>
 
