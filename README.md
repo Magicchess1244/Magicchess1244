@@ -23,10 +23,6 @@
     <img src="https://static.itch.io/images/app-icon.svg"
          alt="itch.io" width="40" height="40"/>
   </a>
-  <a href="mailto:magicchess1244@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-         alt="email" width="40" height="40"/>
-  </a>
 </p>
 
 
