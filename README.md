@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wazowski8292</h1>
 <h3 align="center">I am a indie Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magicchess1244&label=Profile%20views&color=0e75b6&style=flat" alt="magicchess1244" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magicchess1244&label=Profile%20views&color=0e75b6&style=flat" alt="Wazowski8292" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicchess1244" alt="magicchess1244" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wazowski8292" alt="Wazowski8292" /></a> </p>
 
   -🌱 Currently learning how to program well
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://Magicchess1244.itch.io" target="_blank" rel="noreferrer">
+  <a href="https://Wazowski8292.itch.io" target="_blank" rel="noreferrer">
     <img src="https://static.itch.io/images/app-icon.svg"
          alt="itch.io" width="40" height="40"/>
   </a>
