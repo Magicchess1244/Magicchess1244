@@ -62,9 +62,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magicchess1244&show_icons=true&locale=en&layout=compact" alt="magicchess1244" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wazowski8292&show_icons=true&locale=en&layout=compact" alt="Wazowski8292" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magicchess1244&show_icons=true&locale=en" alt="magicchess1244" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wazowski8292&show_icons=true&locale=en" alt="Wazowski8292" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magicchess1244&" alt="magicchess1244" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wazowski8292&" alt="Wazowski8292" /></p>
 
